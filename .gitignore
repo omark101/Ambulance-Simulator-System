@@ -5,3 +5,12 @@
 build/ 
 Debug/ 
 Release/ 
+.idea/ 
+cmake-build-debug/ 
+CMakeCache.txt 
+CMakeFiles/ 
+*.ninja 
+*.o 
+*.obj 
+*.exe 
+*.log 

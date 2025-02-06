@@ -9,8 +9,9 @@ Release/
 cmake-build-debug/ 
 CMakeCache.txt 
 CMakeFiles/ 
-*.ninja 
-*.o 
-*.obj 
-*.exe 
-*.log 
+*.ninja
+.vscode/
+
+
+
+

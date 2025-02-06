@@ -49,77 +49,89 @@ cmake_ninja_workdir = C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System
 
 build cmake_object_order_depends_target_Ambulance_Simulator_System: phony || .
 
-build CMakeFiles/Ambulance_Simulator_System.dir/main.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/main.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\main.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/Car.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/Car.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\Car.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/Patient.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/Patient.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\Patient.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/EPQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/EPQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\EPQueue.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/Car.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/Car.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\Car.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/Hospital.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/Hospital.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\Hospital.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/EPQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/EPQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\EPQueue.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/InputReader.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/InputReader.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\InputReader.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/NPQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/NPQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\NPQueue.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/NCQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/NCQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\NCQueue.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/SPQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/SPQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\SPQueue.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/NPQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/NPQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\NPQueue.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/NCQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/NCQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\NCQueue.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/Organizer.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/Organizer.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\Organizer.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/SCQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/SCQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\SCQueue.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/Out_Back.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/Out_Back.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\Out_Back.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/Out_Back.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/Out_Back.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\Out_Back.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/Patient.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/Patient.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\Patient.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/Hospital.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/Hospital.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\Hospital.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/SCQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/SCQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\SCQueue.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/InputReader.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/InputReader.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\InputReader.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/SPQueue.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/SPQueue.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\SPQueue.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
-build CMakeFiles/Ambulance_Simulator_System.dir/Organizer.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/Organizer.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
-  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\Organizer.cpp.obj.d
+build CMakeFiles/Ambulance_Simulator_System.dir/src/main.cpp.obj: CXX_COMPILER__Ambulance_Simulator_System_unscanned_Debug C$:/Users/omera/CLionProjects/Ambulance$ Simulator$ System/src/main.cpp || cmake_object_order_depends_target_Ambulance_Simulator_System
+  DEP_FILE = CMakeFiles\Ambulance_Simulator_System.dir\src\main.cpp.obj.d
   FLAGS = -g -std=gnu++20 -fdiagnostics-color=always
+  INCLUDES = -I"C:/Users/omera/CLionProjects/Ambulance Simulator System/include"
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir
-  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir
+  OBJECT_FILE_DIR = CMakeFiles\Ambulance_Simulator_System.dir\src
 
 
 # =============================================================================
@@ -129,7 +141,7 @@ build CMakeFiles/Ambulance_Simulator_System.dir/Organizer.cpp.obj: CXX_COMPILER_
 #############################################
 # Link the executable Ambulance_Simulator_System.exe
 
-build Ambulance_Simulator_System.exe: CXX_EXECUTABLE_LINKER__Ambulance_Simulator_System_Debug CMakeFiles/Ambulance_Simulator_System.dir/main.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/Patient.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/Car.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/EPQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/NPQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/SPQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/NCQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/SCQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/Out_Back.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/Hospital.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/InputReader.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/Organizer.cpp.obj
+build Ambulance_Simulator_System.exe: CXX_EXECUTABLE_LINKER__Ambulance_Simulator_System_Debug CMakeFiles/Ambulance_Simulator_System.dir/src/Car.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/EPQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/Hospital.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/InputReader.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/NCQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/NPQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/Organizer.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/Out_Back.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/Patient.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/SCQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/SPQueue.cpp.obj CMakeFiles/Ambulance_Simulator_System.dir/src/main.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\Ambulance_Simulator_System.dir

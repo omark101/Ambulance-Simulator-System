@@ -1,0 +1,16 @@
+# ninja log v6
+22	691	7580759490861628	CMakeFiles/Ambulance_Simulator_System.dir/SPQueue.cpp.obj	107f6da710997a3b
+38	694	7580759491025941	CMakeFiles/Ambulance_Simulator_System.dir/Out_Back.cpp.obj	b2a51586c79ba22d
+7	694	7580759490708549	CMakeFiles/Ambulance_Simulator_System.dir/Patient.cpp.obj	d78b78c77045d9c7
+26	695	7580759490902177	CMakeFiles/Ambulance_Simulator_System.dir/NCQueue.cpp.obj	92ccf5039402ccee
+10	700	7580759490748006	CMakeFiles/Ambulance_Simulator_System.dir/Car.cpp.obj	bab1a7b66221d9f1
+14	702	7580759490788447	CMakeFiles/Ambulance_Simulator_System.dir/EPQueue.cpp.obj	d17e6a2f657e3829
+30	704	7580759490946179	CMakeFiles/Ambulance_Simulator_System.dir/SCQueue.cpp.obj	629e2634d7a6d65
+18	712	7580759490830329	CMakeFiles/Ambulance_Simulator_System.dir/NPQueue.cpp.obj	5c7f32bf3fccfb06
+45	829	7580759491100933	CMakeFiles/Ambulance_Simulator_System.dir/InputReader.cpp.obj	e702f3ac9c73f871
+41	887	7580759491055836	CMakeFiles/Ambulance_Simulator_System.dir/Hospital.cpp.obj	316e273d36494c5d
+49	942	7580759491136649	CMakeFiles/Ambulance_Simulator_System.dir/Organizer.cpp.obj	dd3cf61351eca3f4
+2	1884	7580759490663144	CMakeFiles/Ambulance_Simulator_System.dir/main.cpp.obj	31a3ca6c0438fd97
+1885	2111	7580759509499634	Ambulance_Simulator_System.exe	57c5126191077bd1
+18	8319	7605510212287513	CMakeFiles/Ambulance_Simulator_System.dir/main.cpp.obj	31a3ca6c0438fd97
+8319	8678	7605510295284491	Ambulance_Simulator_System.exe	57c5126191077bd1

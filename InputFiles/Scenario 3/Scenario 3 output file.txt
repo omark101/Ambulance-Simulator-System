@@ -1,0 +1,49 @@
+Simulation Results:
+==================
+FT: 2, PID: 4, QT: 2, WT: 0
+FT: 3, PID: 2, QT: 1, WT: 1
+FT: 3, PID: 8, QT: 3, WT: 0
+FT: 4, PID: 5, QT: 2, WT: 1
+FT: 4, PID: 11, QT: 4, WT: 0
+FT: 5, PID: 1, QT: 1, WT: 2
+FT: 5, PID: 3, QT: 1, WT: 2
+FT: 6, PID: 6, QT: 2, WT: 2
+FT: 7, PID: 7, QT: 3, WT: 2
+FT: 7, PID: 9, QT: 3, WT: 2
+FT: 7, PID: 14, QT: 5, WT: 1
+FT: 8, PID: 10, QT: 4, WT: 2
+FT: 8, PID: 12, QT: 4, WT: 2
+FT: 9, PID: 13, QT: 5, WT: 2
+FT: 10, PID: 17, QT: 6, WT: 2
+FT: 11, PID: 15, QT: 5, WT: 3
+FT: 11, PID: 19, QT: 7, WT: 2
+FT: 11, PID: 20, QT: 7, WT: 2
+FT: 12, PID: 16, QT: 6, WT: 3
+FT: 12, PID: 18, QT: 6, WT: 3
+
+Simulation Statistics
+====================
+Total Patients: 20
+Patient Distribution:
+- Normal Patients: 7
+- Special Patients: 6
+- Emergency Patients: 7
+
+Hospital Information:
+- Total Hospitals: 4
+
+Car Information:
+- Total Cars: 16
+- Special Cars: 4
+- Normal Cars: 12
+
+Waiting Time Statistics:
+- Average Wait Time: 1.7
+
+Emergency Patient Statistics:
+- EP Home Hospital Service Rate: 100%
+- EP Other Hospital Service Rate: 0%
+
+Car Utilization Statistics:
+- Average Car Busy Time: 4.25
+- Overall Car Utilization: 32.6923%

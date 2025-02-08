@@ -1,0 +1,79 @@
+Simulation Results:
+==================
+FT: 2, PID: 4, QT: 2, WT: 0
+FT: 2, PID: 5, QT: 2, WT: 0
+FT: 2, PID: 6, QT: 2, WT: 0
+FT: 5, PID: 1, QT: 1, WT: 2
+FT: 5, PID: 2, QT: 1, WT: 2
+FT: 5, PID: 3, QT: 1, WT: 2
+FT: 7, PID: 8, QT: 3, WT: 2
+FT: 9, PID: 7, QT: 3, WT: 3
+FT: 9, PID: 9, QT: 3, WT: 3
+FT: 9, PID: 25, QT: 9, WT: 0
+FT: 9, PID: 26, QT: 9, WT: 0
+FT: 9, PID: 27, QT: 9, WT: 0
+FT: 10, PID: 11, QT: 4, WT: 3
+FT: 10, PID: 29, QT: 10, WT: 0
+FT: 11, PID: 14, QT: 5, WT: 3
+FT: 11, PID: 20, QT: 7, WT: 2
+FT: 12, PID: 10, QT: 4, WT: 4
+FT: 12, PID: 12, QT: 4, WT: 4
+FT: 12, PID: 17, QT: 6, WT: 3
+FT: 12, PID: 23, QT: 8, WT: 2
+FT: 13, PID: 19, QT: 7, WT: 3
+FT: 13, PID: 21, QT: 7, WT: 3
+FT: 14, PID: 22, QT: 8, WT: 3
+FT: 14, PID: 24, QT: 8, WT: 3
+FT: 14, PID: 28, QT: 10, WT: 2
+FT: 14, PID: 30, QT: 10, WT: 2
+FT: 15, PID: 13, QT: 5, WT: 5
+FT: 15, PID: 15, QT: 5, WT: 5
+FT: 15, PID: 32, QT: 11, WT: 2
+FT: 15, PID: 33, QT: 11, WT: 2
+FT: 16, PID: 35, QT: 12, WT: 2
+FT: 16, PID: 46, QT: 16, WT: 0
+FT: 16, PID: 48, QT: 16, WT: 0
+FT: 17, PID: 31, QT: 11, WT: 3
+FT: 17, PID: 49, QT: 17, WT: 0
+FT: 17, PID: 50, QT: 17, WT: 0
+FT: 18, PID: 16, QT: 6, WT: 6
+FT: 18, PID: 18, QT: 6, WT: 6
+FT: 18, PID: 34, QT: 12, WT: 3
+FT: 18, PID: 36, QT: 12, WT: 3
+FT: 19, PID: 38, QT: 13, WT: 3
+FT: 19, PID: 43, QT: 15, WT: 2
+FT: 19, PID: 44, QT: 15, WT: 2
+FT: 19, PID: 45, QT: 15, WT: 2
+FT: 20, PID: 41, QT: 14, WT: 3
+FT: 20, PID: 47, QT: 16, WT: 2
+FT: 21, PID: 37, QT: 13, WT: 4
+FT: 21, PID: 39, QT: 13, WT: 4
+FT: 22, PID: 40, QT: 14, WT: 4
+FT: 22, PID: 42, QT: 14, WT: 4
+
+Simulation Statistics
+====================
+Total Patients: 50
+Patient Distribution:
+- Normal Patients: 16
+- Special Patients: 17
+- Emergency Patients: 17
+
+Hospital Information:
+- Total Hospitals: 6
+
+Car Information:
+- Total Cars: 87
+- Special Cars: 27
+- Normal Cars: 60
+
+Waiting Time Statistics:
+- Average Wait Time: 2.36
+
+Emergency Patient Statistics:
+- EP Home Hospital Service Rate: 100%
+- EP Other Hospital Service Rate: 0%
+
+Car Utilization Statistics:
+- Average Car Busy Time: 2.71264
+- Overall Car Utilization: 11.7941%

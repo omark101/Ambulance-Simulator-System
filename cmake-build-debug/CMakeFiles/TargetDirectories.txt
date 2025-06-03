@@ -1,3 +1,0 @@
-C:/Users/omera/CLionProjects/Ambulance Simulator System/cmake-build-debug/CMakeFiles/Ambulance_Simulator_System.dir
-C:/Users/omera/CLionProjects/Ambulance Simulator System/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/omera/CLionProjects/Ambulance Simulator System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
